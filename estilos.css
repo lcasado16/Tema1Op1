@@ -1,0 +1,31 @@
+body {
+    font-size: 18px;
+    color: red;
+    background="i1.jpg";
+}
+
+body div{
+    font-family: monospace;
+    color:blue;
+    background-color: aquamarine;
+    border-radius: 50px;
+
+}
+
+body div label{
+    margin-left: 5%;
+}
+body div p{
+    margin-left: 25%
+}
+body div img{
+    height: 200px:
+    background-color: red;
+    width: 15%;
+    margin-left: 20%;
+}
+#foto{
+    border-radius: 30px;
+}
+#etiquetaa{
+    color:crimson;
